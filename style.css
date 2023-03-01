@@ -1,0 +1,81 @@
+body {
+    width: auto;
+    margin: 0 auto;
+    background-color: #dcfae7;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(146, 252, 252);
+    padding: auto;
+    margin: 25px;
+    text-align: center;
+}
+
+
+img{
+    width: 200px;
+    height: 200px;
+    padding: 0 auto;
+    border-radius: 30px;
+}
+
+
+.contenedor{
+    margin-top: 100px;
+    display: flex;
+    padding: 25px;
+}
+
+.sobre_mi{
+    padding-left: 30px;
+}
+
+.formación{
+    text-align: left;
+    padding: 50px;
+}
+
+.proyecto h2{
+    text-align: left;
+    padding: 50px;
+
+}
+
+.proyecto ul li {
+    text-align: left;
+    padding-left: 50px;
+}
+
+.skill{
+    margin-top: 100px;
+    display: flex;
+    padding: 50px;
+}
+
+.personalidad{
+    padding-left: 50px;
+    text-align: left;
+
+}
+
+.contacto{
+    text-align: justify;
+    padding-left: 15px;
+}
+
+.contacto h2{
+    text-align: left;
+    padding: 50px;
+
+}
+
+.redes{
+    width: 30px;
+    height: 30px;
+}
+footer{
+    text-align: center;
+    padding: 25px;
+    background-color: rgb(223, 165, 89);
+}
